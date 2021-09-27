@@ -1,0 +1,5 @@
+#add namesof the files or dir that you dont want to git or track forlocalrepo
+*.txt
+test1.class
+*.php
+test2.php
